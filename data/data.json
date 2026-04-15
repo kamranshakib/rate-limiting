@@ -1,0 +1,48 @@
+[
+  { "id": 1, "bookName": "Atomic Habits", "author": "James Clear" },
+  { "id": 2, "bookName": "Clean Code", "author": "Robert C. Martin" },
+  { "id": 3, "bookName": "The Pragmatic Programmer", "author": "Andrew Hunt" },
+  { "id": 4, "bookName": "Deep Work", "author": "Cal Newport" },
+  { "id": 5, "bookName": "Rich Dad Poor Dad", "author": "Robert Kiyosaki" },
+  { "id": 6, "bookName": "The Alchemist", "author": "Paulo Coelho" },
+  { "id": 7, "bookName": "Think and Grow Rich", "author": "Napoleon Hill" },
+  { "id": 8, "bookName": "Start with Why", "author": "Simon Sinek" },
+  { "id": 9, "bookName": "Zero to One", "author": "Peter Thiel" },
+  { "id": 10, "bookName": "The Lean Startup", "author": "Eric Ries" },
+  { "id": 11, "bookName": "Eloquent JavaScript", "author": "Marijn Haverbeke" },
+  { "id": 12, "bookName": "You Don't Know JS", "author": "Kyle Simpson" },
+  {
+    "id": 13,
+    "bookName": "Node.js Design Patterns",
+    "author": "Mario Casciaro"
+  },
+  {
+    "id": 14,
+    "bookName": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford"
+  },
+  { "id": 15, "bookName": "Refactoring", "author": "Martin Fowler" },
+  { "id": 16, "bookName": "Design Patterns", "author": "Erich Gamma" },
+  {
+    "id": 17,
+    "bookName": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann"
+  },
+  { "id": 18, "bookName": "The Clean Coder", "author": "Robert C. Martin" },
+  { "id": 19, "bookName": "Soft Skills", "author": "John Sonmez" },
+  {
+    "id": 20,
+    "bookName": "The Psychology of Money",
+    "author": "Morgan Housel"
+  },
+  { "id": 21, "bookName": "Sapiens", "author": "Yuval Noah Harari" },
+  { "id": 22, "bookName": "The Power of Habit", "author": "Charles Duhigg" },
+  { "id": 23, "bookName": "Make Time", "author": "Jake Knapp" },
+  { "id": 24, "bookName": "Hooked", "author": "Nir Eyal" },
+  { "id": 25, "bookName": "The 7 Habits", "author": "Stephen Covey" },
+  { "id": 26, "bookName": "The Art of War", "author": "Sun Tzu" },
+  { "id": 27, "bookName": "Ikigai", "author": "Héctor García" },
+  { "id": 28, "bookName": "Can't Hurt Me", "author": "David Goggins" },
+  { "id": 29, "bookName": "Rework", "author": "Jason Fried" },
+  { "id": 30, "bookName": "The Subtle Art", "author": "Mark Manson" }
+]
