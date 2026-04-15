@@ -9,9 +9,6 @@ if (fs.existsSync(userFilePath)) {
 } else {
   console.log("file not found");
 }
-function writeUesrToFile(users) {
-  fs.writeFileSync(userFilePath, JSON.stringify(users, null, 2));
-}
 export const auth = basicAuth({
   users: users.reduce((acc, user) => {
     acc[user.username] = user.password;

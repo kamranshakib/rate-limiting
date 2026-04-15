@@ -1,5 +1,5 @@
 import Book from "../data/data.json" with { type: "json" };
-export const hundlerData = (req, res, next) => {
+export const hundlerData = (req, res) => {
   const { page } = req.query;
   const pageNumber = parseInt(page) || 1;
   const pageSize = 5;
